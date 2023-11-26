@@ -1,0 +1,86 @@
+.fare_container{
+    padding-top: 70px ;
+}
+
+.fare_container .react-multi-carousel-list{
+    padding-bottom: 30px;
+}  
+.slider_content {
+    box-shadow: 6px 8px 12px 0px rgba(0,135,219,0.24);
+    background-color: #fff;
+    margin-right: 10px;
+    overflow: "hidden";
+    border-radius: 8px;
+    border-radius: 16px;
+
+}
+.fare_container .slider .slider_img{
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+
+}
+
+.top_fare_heading h3{
+    color: #08d !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+.fare_container .inner_slider {
+    padding: 15px 15px;
+}
+.top_fare_heading h3{
+    margin: 0;
+}
+.top_fare_heading span{
+font-size: 14px;
+}
+.fare_section_mid{
+    text-align: right;
+}
+.fare_section_mid span{
+    font-size: 12px;
+    color: #424345;
+}
+.fare_section_mid h3{
+    margin: 0;
+    color: #0088dd ;
+    font-size: 22px;
+}
+.fare_section_mid p{
+    margin: 0;
+    font-size: 12px;
+    line-height: 12px;
+    color: #424345;
+
+}
+
+.fare_booknow_footer .btn{
+    background: #0088dd !important;
+    width: 100%;
+    padding: 10px 10px;
+    font-weight: 500;
+}
+.react-multi-carousel-dot-list {
+    bottom: -8px;
+
+}
+.react-multi-carousel-dot--active button {
+    background: #27ade7 !important;
+    border-color: #27ade7 !important;
+
+}
+.react-multiple-carousel__arrow::before{
+    color:  #27ade7 !important;
+    font-weight: bold;
+    font-size: 30px;
+}
+.react-multiple-carousel__arrow:hover, .react-multiple-carousel__arrow{
+    background-color: unset;
+}
+.react-multiple-carousel__arrow--right {
+    right: calc(1% + 1px);
+}
