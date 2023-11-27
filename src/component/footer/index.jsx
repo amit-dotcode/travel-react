@@ -9,12 +9,12 @@ const Footer = () => {
                             <h6>About us</h6>
                             <div className="link_footer">
                                 <ul>
-                                    <li><a href="#">About SriLankan Airlines</a></li>
-                                    <li><a href="#">Right to Information Act</a></li>
-                                    <li><a href="#">Tender and GSA notices</a></li>
-                                    <li><a href="#">Advertise with us</a></li>
-                                    <li><a href="#">Sri Lanka Tourism</a></li>
-                                    <li><a href="#">Media Center</a></li>
+                                    <li><a href='/'>About SriLankan Airlines</a></li>
+                                    <li><a href='/'>Right to Information Act</a></li>
+                                    <li><a href='/'>Tender and GSA notices</a></li>
+                                    <li><a href='/'>Advertise with us</a></li>
+                                    <li><a href='/'>Sri Lanka Tourism</a></li>
+                                    <li><a href='/'>Media Center</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -22,11 +22,11 @@ const Footer = () => {
                             <h6>help</h6>
                             <div className="link_footer">
                                 <ul>
-                                    <li><a href="#">24 Hours Contact Center</a></li>
-                                    <li><a href="#">Online Chat Support</a></li>
-                                    <li><a href="#">FAQs</a></li>
+                                    <li><a href='/'>24 Hours Contact Center</a></li>
+                                    <li><a href='/'>Online Chat Support</a></li>
+                                    <li><a href='/'>FAQs</a></li>
                                     <li><h6>SRILANKAN DIRECT CONNECT</h6></li>
-                                    <li><a href="#">Agent Registration</a></li>
+                                    <li><a href='/'>Agent Registration</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -34,12 +34,12 @@ const Footer = () => {
                             <h6>service</h6>
                             <div className="link_footer">
                                 <ul>
-                                    <li><a href="#">MICE</a></li>
-                                    <li><a href="#">Cargo</a></li>
-                                    <li><a href="#">FAQs</a></li>
-                                    <li><a href="#">Training</a></li>
-                                    <li><a href="#">Ground Handling</a></li>
-                                    <li><a href="#">SriLankan Holidays</a></li>
+                                    <li><a href='/'>MICE</a></li>
+                                    <li><a href='/'>Cargo</a></li>
+                                    <li><a href='/'>FAQs</a></li>
+                                    <li><a href='/'>Training</a></li>
+                                    <li><a href='/'>Ground Handling</a></li>
+                                    <li><a href='/'>SriLankan Holidays</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -47,10 +47,10 @@ const Footer = () => {
                             <h6>Tearms & Conditions</h6>
                             <div className="link_footer">
                                 <ul>
-                                    <li><a href="#">Online Booking Terms of Use</a></li>
-                                    <li><a href="#">Conditions of Carriage</a></li>
-                                    <li><a href="#">Notices For Travel Agents</a></li>
-                                    <li><a href="#">Permission Center</a></li>
+                                    <li><a href='/'>Online Booking Terms of Use</a></li>
+                                    <li><a href='/'>Conditions of Carriage</a></li>
+                                    <li><a href='/'>Notices For Travel Agents</a></li>
+                                    <li><a href='/'>Permission Center</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -85,10 +85,10 @@ const Footer = () => {
                             <h6>Follow us</h6>
                             <div className="link_footer social_icon pt-2">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href='/'><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href='/'><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href='/'><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                    <li><a href='/'><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 
                                 </ul>
                             </div>
@@ -100,9 +100,9 @@ const Footer = () => {
             <div className='row'>
                         <div className='col-12 col-lg-9 col-sm-6 col-md-9 link_footer copywrite'>
                                 <ul>
-                                    <li><a href='#'>Privacy Policy</a></li>
-                                    <li><a href='#'>Cookie Policy</a></li>
-                                    <li><a href='#'>Legal Notice</a></li>
+                                    <li><a href='/'>Privacy Policy</a></li>
+                                    <li><a href='/'>Cookie Policy</a></li>
+                                    <li><a href='/'>Legal Notice</a></li>
                                 </ul>
                         </div>
                         <div className='col-12 col-lg-3 col-sm-6 col-md-9 company_name'>
