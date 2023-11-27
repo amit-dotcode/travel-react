@@ -63,7 +63,7 @@ const Footer = () => {
                                 <form className="row g-4">
                                     <div className="col-auto">
                                         <label for="staticEmail2" className="visually-hidden">Email</label>
-                                        <input type="text" readonly className="form-control" id="staticEmail2" value="email@example.com" />
+                                        <input type="text" readonly className="form-control" id="staticEmail2" placeholder='Enter your email' />
                                     </div>
                                     <div className="col-auto">
                                         <label for="inputPassword2" className="visually-hidden">Password</label>
@@ -85,11 +85,10 @@ const Footer = () => {
                             <h6>Follow us</h6>
                             <div className="link_footer social_icon pt-2">
                                 <ul>
-                                    <li><a href='/'><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href='/'><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a href='/'><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                    <li><a href='/'><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-
+                                    <li><a href='https://www.facebook.com/flysrilankan/'><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href='https://twitter.com/flysrilankan'><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href='https://youtube.com'><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                    <li><a href='https://instagram.com'><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                         </div>
