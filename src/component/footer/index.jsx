@@ -85,10 +85,10 @@ const Footer = () => {
                             <h6>Follow us</h6>
                             <div className="link_footer social_icon pt-2">
                                 <ul>
-                                    <li><a href='https://www.facebook.com/flysrilankan/'><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href='https://twitter.com/flysrilankan'><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a href='https://youtube.com'><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                    <li><a href='https://instagram.com'><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href='https://www.facebook.com/flysrilankan/'> <i class="fa fa-facebook" aria-hidden="true"></i> </a></li>
+                                    <li><a href='https://twitter.com/flysrilankan'> <i class="fa fa-linkedin" aria-hidden="true"></i> </a></li>
+                                    <li><a href='https://youtube.com'> <i class="fa fa-youtube" aria-hidden="true"></i> </a></li>
+                                    <li><a href='https://instagram.com'> <i class="fa fa-instagram" aria-hidden="true"></i> </a></li>
                                 </ul>
                             </div>
                         </div>
