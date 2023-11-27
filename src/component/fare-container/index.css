@@ -64,10 +64,7 @@ font-size: 14px;
     padding: 10px 10px;
     font-weight: 500;
 }
-.react-multi-carousel-dot-list {
-    bottom: -8px;
 
-}
 .react-multi-carousel-dot--active button {
     background: #27ade7 !important;
     border-color: #27ade7 !important;

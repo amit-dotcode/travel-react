@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+@media (max-width: 576px) { 
+    .navbar-nav{
+        text-align: center;
+    }
+    input[type=search]{
+        width: 100%;
+    }
+
+    .right_nav_inner{
+        flex-direction: column;
+    }
+    .fa-search {
+        position: absolute;
+        top: 8px;
+        right: 8px;
+        color: gray;
+        font-size: 14px;
+        left: unset;
+    }
+    input[type=search]:focus {
+        width: 100%;
+        right: unset;
+        z-index: 2;
+        border-color: #0088dd;
+        position: relative;
+        top: unset;
+    }
+    input[type=search]:focus ~ .fa-search {
+        left: unset;
+        top: 8px;
+        right: 8px;
+        color: gray;
+        z-index: 5;
+    }
+    .carousel.slide .carousel-item{
+        height: unset;
+    }
+    
+    .form-check label{
+        font-size: 12px;
+    }
+    
+    .bottom_footer h6{
+        padding-top: 15px;
+    }
+    .copywrite ul li {
+        display: inline-block;
+        padding: 12px 0px 0px 9px;
+        font-size: 14px;
+    }
+    .company_name{
+        text-align: center;
+    }
+ }
+
